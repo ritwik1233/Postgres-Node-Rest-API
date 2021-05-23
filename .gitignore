@@ -1,0 +1,6 @@
+node_modules
+dist
+booksassignment-linux
+booksassignment-macos
+booksassignment-win.exe
+.vscode
